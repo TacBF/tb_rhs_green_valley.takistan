@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="Tactical Battlefield">
+<Package name="Missions">
+
+<Container name="TB_Green_Valley">
+
+	<Key ID="STR_TB_missionTitle_TB_Green_Valley">
+		<Original>Green Valley</Original>
+		<English>Green Valley</English>
+		<German>Green Valley</German>
+		<Italian>Green Valley</Italian>
+		<Spanish>Green Valley</Spanish>
+		<French>Green Valley</French>
+		<Czech>Green Valley</Czech>
+		<Russian>Green Valley</Russian>
+		<Polish>Green Valley</Polish>
+		<Hungarian>Green Valley</Hungarian>
+	</Key>
+
+	<Key ID="STR_TB_briefingName_TB_Green_Valley">
+		<Original>TacBF A&amp;S[T-10]: Green Valley</Original>
+		<English>TacBF A&amp;S[T-10]: Green Valley</English>
+		<German>TacBF A&amp;S[T-10]: Green Valley</German>
+		<Italian>TacBF A&amp;S[T-10]: Green Valley</Italian>
+		<Spanish>TacBF A&amp;S[T-10]: Green Valley</Spanish>
+		<French>TacBF A&amp;S[T-10]: Green Valley</French>
+		<Czech>TacBF A&amp;S[T-10]: Green Valley</Czech>
+		<Russian>TacBF A&amp;S[T-10]: Green Valley</Russian>
+		<Polish>TacBF A&amp;S[T-10]: Green Valley</Polish>
+		<Hungarian>TacBF A&amp;S[T-10]: Green Valley</Hungarian>
+	</Key>
+
+</Container>
+
+</Package>
+</Project>
